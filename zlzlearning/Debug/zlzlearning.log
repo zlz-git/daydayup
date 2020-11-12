@@ -1,0 +1,4 @@
+﻿  zlzlearning.cpp
+c:\users\zlz\source\repos\zlzlearning\zlzlearning\zlzlearning.cpp(110): error C2248: “Singleton::Singleton”: 无法访问 private 成员(在“Singleton”类中声明)
+  c:\users\zlz\source\repos\zlzlearning\zlzlearning\zlzlearning.cpp(106): note: 参见“Singleton::Singleton”的声明
+  c:\users\zlz\source\repos\zlzlearning\zlzlearning\zlzlearning.cpp(93): note: 参见“Singleton”的声明
